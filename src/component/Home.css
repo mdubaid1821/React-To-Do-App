@@ -1,0 +1,60 @@
+.container{
+    
+    background-color: rgb(225, 212, 87);
+    margin-top: 0%;
+    border: 2px dotted white;
+    margin-left: 300px;
+    margin-right: 300px;
+
+    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+input{
+    margin-bottom: 10px;
+    outline: none;
+    padding: 5px;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid brown;
+}
+
+textarea{
+    margin-bottom: 10px;
+    outline: none;
+    padding: 0px;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid brown;
+    
+}
+form>button{
+    
+    text-align: center;
+    margin-bottom: 10px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 270px;
+    font-size: larger;
+    color: white;
+    
+    
+}
+h1{
+    text-align: center;
+    
+}

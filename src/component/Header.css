@@ -1,0 +1,13 @@
+nav{
+    background-color: rgb(105, 16, 16);
+    color: white;
+    border: 2px solid rgb(172, 140, 79);
+    
+    padding: 10px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+
+}
